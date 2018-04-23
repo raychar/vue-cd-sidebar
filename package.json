@@ -1,7 +1,7 @@
 {
   "name": "vue-cd-sidebar",
   "version": "0.0.5",
-  "description": "A Sidebar component from CodeDrop for Vue",
+  "description": "A Sidebar UI component from CodeDrop for VueJS",
   "keywords":["sidebar","menu","VueJS"],
   "license": "MIT",
   "author": "Jimmy",
