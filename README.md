@@ -6,25 +6,25 @@
 
 ### 简介
 
-基于Vue的菜单栏的插件。
+基于Vue的菜单栏的插件。
 移植于CodeDrops
 
 ### 安装
 
 `npm i vue-cd-sidebar`
 
-### API
+### API
 
 |   属性   |   说明   |   类型   |   默认值   |
 | ---- | ---- | ---- | ---- |
-|state|菜单栏的开关状态|bool|false|
+|state|菜单栏的开关状态|bool|false|
 |close-event|菜单栏的关闭事件|  event   |   -   |
 
 ### Slot
 
 |   名称   |   说明   |   是否必须   |
 | ---- | ---- | ---- |
-|nav| 菜单栏的插槽| 是 |
+|nav| 菜单栏的插槽| 是 |
 |默认| 主体内容 | 是 |
 
 ### Sample
